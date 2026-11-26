@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "runtime": "javascript",
+  "identifier": "com.localaibasetools.polish-input",
+  "displayName": "Polish-input",
+  "version": "1.0.7",
+  "summary": "Polish selected writing, preview the result, and apply it to a supported editable field.",
+  "entryPoint": "main.js",
+  "icon": "assets/icon.png",
+  "permissions": ["selection.read", "selection.replace", "selection.paste", "ai.transform", "ui.panel"],
+  "commands": [{"identifier": "polish", "title": "Polish", "trigger": "selection"}],
+  "settingsSchema": "settings.schema.json",
+  "localizations": "localizations.json"
+}

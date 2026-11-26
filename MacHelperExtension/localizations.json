@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "translations": {
+    "en": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Polish selected writing, preview the result, and apply it to a supported editable field.",
+      "Polish": "Polish",
+      "Polishing prompt": "Polishing prompt"
+    },
+    "zh-Hans": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "润色所选文字，预览结果，并将其应用到支持的可编辑字段。",
+      "Polish": "润色",
+      "Polishing prompt": "润色提示词"
+    },
+    "zh-Hant": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "潤飾所選文字，預覽結果，並將其套用至支援的可編輯欄位。",
+      "Polish": "潤飾",
+      "Polishing prompt": "潤飾提示詞"
+    },
+    "es": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Mejora el texto seleccionado, revisa el resultado y aplícalo a un campo editable compatible.",
+      "Polish": "Mejorar",
+      "Polishing prompt": "Instrucciones de mejora"
+    },
+    "fr": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Améliorez le texte sélectionné, vérifiez le résultat et appliquez-le dans un champ modifiable compatible.",
+      "Polish": "Améliorer",
+      "Polishing prompt": "Consigne de révision"
+    },
+    "de": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Verbessern Sie markierten Text, prüfen Sie das Ergebnis und übernehmen Sie es in ein unterstütztes bearbeitbares Feld.",
+      "Polish": "Verbessern",
+      "Polishing prompt": "Überarbeitungsanweisung"
+    },
+    "ja": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "選択した文章を推敲し、結果を確認して対応する編集可能な欄に適用します。",
+      "Polish": "推敲",
+      "Polishing prompt": "推敲プロンプト"
+    },
+    "ko": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "선택한 글을 다듬고 결과를 확인한 후 지원되는 편집 가능한 필드에 적용합니다.",
+      "Polish": "다듬기",
+      "Polishing prompt": "다듬기 프롬프트"
+    },
+    "pt": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Melhore o texto selecionado, reveja o resultado e aplique-o num campo editável compatível.",
+      "Polish": "Melhorar",
+      "Polishing prompt": "Instruções de revisão"
+    },
+    "ar": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "حسّن النص المحدد، وراجع النتيجة، ثم طبّقها في حقل قابل للتحرير ومدعوم.",
+      "Polish": "تحسين",
+      "Polishing prompt": "تعليمات تحسين الكتابة"
+    },
+    "hi": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "चुने हुए लेखन को सुधारें, परिणाम की समीक्षा करें और समर्थित संपादन योग्य फ़ील्ड में लागू करें।",
+      "Polish": "सुधारें",
+      "Polishing prompt": "लेखन सुधारने का प्रॉम्प्ट"
+    },
+    "ru": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Улучшайте выделенный текст, проверяйте результат и применяйте его в поддерживаемом редактируемом поле.",
+      "Polish": "Улучшить",
+      "Polishing prompt": "Инструкция для улучшения текста"
+    },
+    "it": {
+      "Polish selected writing, preview the result, and apply it to a supported editable field.": "Migliora il testo selezionato, controlla il risultato e applicalo in un campo modificabile supportato.",
+      "Polish": "Migliora",
+      "Polishing prompt": "Istruzioni di revisione"
+    }
+  }
+}

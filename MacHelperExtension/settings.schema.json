@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "fields": [
+    {"key": "polishPrompt", "label": "Polishing prompt", "type": "prompt", "path": "prompts/polish.txt"}
+  ]
+}
